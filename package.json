@@ -1,0 +1,25 @@
+{
+  "name": "opentutorials_web2nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinguru88/opentutorials_web2nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinguru88/opentutorials_web2nodejs/issues"
+  },
+  "homepage": "https://github.com/shinguru88/opentutorials_web2nodejs#readme",
+  "dependencies": {
+    "sanitize-html": "^1.20.0"
+  }
+}
